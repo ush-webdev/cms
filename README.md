@@ -39,7 +39,7 @@ You can then install this application template using the following command:
 
 ~~~
 php composer global require "fxp/composer-asset-plugin:~1.1.0"
-composer create-project --prefer-dist --stability=dev s7n-Paganel/cms path/to/your/project
+composer create-project --prefer-dist --stability=dev ush-webdev/cms nanocms
 ~~~
 
 Now you should be able to access the application through the following URL, assuming your server webroot is pointed to
